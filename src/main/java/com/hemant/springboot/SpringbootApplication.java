@@ -24,4 +24,5 @@ public class SpringbootApplication {
 				.forEach(employee -> System.out.println("name: " + employee.getName() + " ----salary" + employee.getSalary()));
 	}
 
+
 }
